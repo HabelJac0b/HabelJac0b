@@ -1,6 +1,6 @@
 👋 Hi there! I’m Habel 
 
- /n *A passionate BCA student diving deep into the world of software development.*
+*A passionate BCA student diving deep into the world of software development.*
 
 
 💻 I work with VB.NET, SQL Server, and love learning about software engineering.<br/>
