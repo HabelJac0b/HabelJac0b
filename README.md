@@ -3,8 +3,8 @@
 *A passionate BCA student diving deep into the world of software development.*
 
 
-💻 I work with VB.NET, SQL Server, and love learning about software engineering.<br/>
-🎨 I enjoy photography, editing, Canva design, and making posters.<br/>
+💻 I work with Android Studio and Firebase, and I’m passionate about learning and exploring software engineering.<br/>
+🎨 I enjoy Photography, Videography, Editing, Canva design, and making posters.<br/>
 📚 Curious about UI, apps, and creative tech.<br/>
 🌱 Always learning — coding, designing, and growing!<br/>
 📷 See my photography on Instagram: [SanpSymphony.jpg](https://www.instagram.com/snapsymphony.jpg/)<br/>
