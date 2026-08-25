@@ -1,6 +1,6 @@
 👋 Hi there! I’m Habel 
 
-*A passionate BCA student diving deep into the world of software development.*
+*A passionate MCA student diving deep into the world of software development.*
 
 
 💻 I work with Android Studio and Firebase, and I’m passionate about learning and exploring software engineering.<br/>
