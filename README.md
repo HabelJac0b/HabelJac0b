@@ -25,15 +25,15 @@
     height="180"
   />
   <img
-    src="https://streak-stats.demolab.com/?user=VaishaghG&theme=merko&hide_border=true"
-    alt="VaishaghG GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=HabelJac0b&theme=merko&hide_border=true"
+    alt="Habel Jacob's GitHub Streak"
     height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishaghG&layout=compact&theme=merko&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabelJac0b&layout=compact&theme=merko&hide_border=true"
     alt="Most Used Programming Languages"
   />
 </p>
@@ -52,9 +52,9 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/VaishaghG">
+  <a href="https://github.com/HabelJac0b">
     <img
-      src="https://img.shields.io/badge/GitHub-VaishaghG-181717?style=for-the-badge&logo=github"
+      src="https://img.shields.io/badge/GitHub-HabelJac0b-181717?style=for-the-badge&logo=github"
       alt="Visit my GitHub profile"
     />
   </a>
