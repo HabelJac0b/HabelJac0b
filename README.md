@@ -20,8 +20,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=VaishaghG&show_icons=true&theme=merko&hide_border=true"
-    alt="VaishaghG GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=HabelJac0b&show_icons=true&theme=merko&hide_border=true"
+    alt="Habel Jacob's GitHub Statistics"
     height="180"
   />
   <img
